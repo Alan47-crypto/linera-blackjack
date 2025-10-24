@@ -1,0 +1,10 @@
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/release/deps/libwit_bindgen_core-1e7afa467e739e8b.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/release/deps/libwit_bindgen_core-1e7afa467e739e8b.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/release/deps/wit_bindgen_core-1e7afa467e739e8b.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs:

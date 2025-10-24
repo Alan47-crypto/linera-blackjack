@@ -1,0 +1,10 @@
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/wasm32-unknown-unknown/release/deps/libserde_name-60897bc56df9653d.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/wasm32-unknown-unknown/release/deps/libserde_name-60897bc56df9653d.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/wasm32-unknown-unknown/release/deps/serde_name-60897bc56df9653d.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs:

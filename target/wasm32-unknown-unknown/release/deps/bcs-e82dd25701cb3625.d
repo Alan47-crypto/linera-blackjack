@@ -1,0 +1,11 @@
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/wasm32-unknown-unknown/release/deps/libbcs-e82dd25701cb3625.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/wasm32-unknown-unknown/release/deps/libbcs-e82dd25701cb3625.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/wasm32-unknown-unknown/release/deps/bcs-e82dd25701cb3625.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs:

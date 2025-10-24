@@ -1,0 +1,8 @@
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/release/deps/libcustom_debug_derive-b0f3d95d1939ae36.so: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/field_attributes.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/result_into_stream_ext.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/retain_ext.rs
+
+/workspaces/codespaces-blank/linera-protocol/examples/counter/target/release/deps/custom_debug_derive-b0f3d95d1939ae36.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/field_attributes.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/result_into_stream_ext.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/retain_ext.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/field_attributes.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/result_into_stream_ext.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.1/src/retain_ext.rs:
